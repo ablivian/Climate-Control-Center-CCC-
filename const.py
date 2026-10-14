@@ -17,3 +17,7 @@ MODES = [
     MODE_CUSTOM,
     MODE_OFF,
 ]
+
+DATA_MANAGER = "manager"
+DATA_COORDINATOR = "coordinator"
+DATA_STORAGE = "storage"
