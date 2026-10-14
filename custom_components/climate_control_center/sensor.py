@@ -1,5 +1,3 @@
-sensor.climate_mode
-
-sensor.previous_mode
-
-sensor.people_home
+sensor.ccc_mode
+sensor.ccc_previous_mode
+sensor.ccc_people_home
