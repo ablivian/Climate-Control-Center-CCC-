@@ -3,8 +3,8 @@
   "name": "Climate Control Center",
   "version": "0.1.0",
   "config_flow": true,
-  "documentation": "https://github.com/yourrepo/climate_control_center",
+  "documentation": "https://github.com/ablivian/Climate-Control-Center-CCC-",
   "requirements": [],
-  "codeowners": ["@yourname"],
+  "codeowners": ["@ablivian"],
   "iot_class": "local_push"
 }
