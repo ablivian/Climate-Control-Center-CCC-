@@ -1,0 +1,5 @@
+hass.data[DOMAIN][entry.entry_id] = {
+    DATA_MANAGER: manager,
+    DATA_COORDINATOR: coordinator,
+    DATA_STORAGE: storage,
+}
